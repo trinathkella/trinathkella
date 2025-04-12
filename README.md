@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Trinath Kella</h1>
-- 👨‍💻 All of my projects are available at (https://github.com/trinathkella)
 
 - 📫 How to reach me **kellatrinath@gmail.com**
 
