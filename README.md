@@ -15,7 +15,4 @@
 - SystemVerilog
 ### Tools  
 - Vivado  
-- QuestaSim  <a href="https://eda.sw.siemens.com/en-US/ic/questa/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/path/to/image.png" alt="QuestaSim" width="40" height="40"/>
-</a>
-
+- QuestaSim 
