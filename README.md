@@ -19,11 +19,11 @@
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
 </p>
 
-                                                                                                                                                ### HDLs 
-                                                                                                                                                - Verilog  
-                                                                                                                                                - SystemVerilog
-                                                                                                                                                
-                                                                                                                                                ### Tools  
-                                                                                                                                                - Vivado  
-                                                                                                                                                - QuestaSim
+### HDLs 
+- Verilog  
+- SystemVerilog
+
+### Tools  
+- Vivado  
+- QuestaSim
 
