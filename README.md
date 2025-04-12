@@ -19,38 +19,11 @@
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
 </p>
 
-### HDLs 
-- Verilog  
-- SystemVerilog
+                                                                                                                                                ### HDLs 
+                                                                                                                                                - Verilog  
+                                                                                                                                                - SystemVerilog
+                                                                                                                                                
+                                                                                                                                                ### Tools  
+                                                                                                                                                - Vivado  
+                                                                                                                                                - QuestaSim
 
-### Tools  
-- Vivado  
-- QuestaSim
-
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px;">
-
-  <div style="flex: 1;">
-    <!-- Leave this empty or use for future content -->
-  </div>
-
-  <div style="flex: 1; min-width: 300px;">
-    
-  <h3 align="left">✨ My Favorite Verilog Snippet - 2x1 MUX</h3>
-
-  <pre>
-  <code>
-  module mux2x1 (
-      input wire a,        // Input a
-      input wire b,        // Input b
-      input wire sel,      // Select line
-      output wire out      // Output
-  );
-  
-      assign out = (sel) ? b : a;
-  
-  endmodule
-  </code>
-  </pre>
-
-  </div>
-</div>
