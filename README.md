@@ -1,6 +1,3 @@
-<table>
-  <tr>
-    <td style="vertical-align: top; width: 50%;">
       
 <h1 align="center">Hi 👋, I'm Trinath Kella</h1>
 
@@ -29,9 +26,6 @@
 ### Tools  
 - Vivado  
 - QuestaSim
-
-    </td>
-    <td style="vertical-align: top; width: 150%;">
 
 ```verilog
 // 2x1 Multiplexer in Verilog
