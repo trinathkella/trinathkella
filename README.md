@@ -4,8 +4,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/trinathkella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trinathkella/" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/trinathkella" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Trinath Kella LinkedIn" height="30" width="40" />
+</a>
 
 ### Programming Languages
 - C
