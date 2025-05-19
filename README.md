@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trinath Kella</h1>
+<h1 align="center">Hi, I'm Trinath Kella</h1>
 
 ### MAIL: **kellatrinath@gmail.com**
 
