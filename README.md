@@ -20,12 +20,13 @@
 **Methodologies** - UVM (Universal Verification Methodology)
 
  </td>
-   <td align="center" width="80%">
+   <td align="center" width="40%">
+     <img src="./ha.png" alt="VLSI Logo" width="140"/>
      <br/>
+     <sub><i>Digital · RTL · Verification</i></sub>
    </td>
   </tr>
 </table>
-
 
 ---
 
