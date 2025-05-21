@@ -5,39 +5,37 @@
 </p>
 
 ---
-<table>
-  <tr>
-    <td valign="top" width="60%">
 
 ### Technical Skills
 
-**Programming Languages** - C, C++, Python, Shell Scripting
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
 
-**Hardware Description Languages** - Verilog, SystemVerilog
+- **Programming Languages** – C, C++, Python, Shell Scripting  
+- **HDLs** – Verilog, SystemVerilog  
+- **Tools** – Vivado, Questa Sim, MATLAB, Xilinx SDK, TCL, Linux  
+- **Methodology** – UVM (Universal Verification Methodology)
 
-**Tools & Technologies** - Vivado, Questa Sim, MATLAB, Xilinx SDK, TCL, Linux
-
-**Methodologies** - UVM (Universal Verification Methodology)
-
- </td>
-   <td align="center" width="40%">
-     <img src="./ha.png" alt="VLSI Logo" width="140"/>
-     <br/>
-     <sub><i>Digital · RTL · Verification</i></sub>
-   </td>
-  </tr>
-</table>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="./ha.png" alt="VLSI Work" width="280"/>
+    <br/>
+    <sub><i>Digital · RTL · Verification</i></sub>
+  </div>
+</div>
 
 ---
 
 ### Projects
+
 - **Floating Point Unit using IEEE 754 (32-bit)**  
   Designed and implemented arithmetic operations (add, sub, mul, div) on Zynq-7000 using Vivado and Xilinx SDK.
 
 ---
 
 ### Find Me Online
-<p align="left">
+
+<p>
   <a href="mailto:kellatrinath@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
