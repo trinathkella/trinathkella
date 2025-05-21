@@ -8,13 +8,10 @@
 
 ### Technical Skills
 
-<img src="./ha.png" align="right" width="450"/>
-
 - **Programming Languages** – C, C++, Python, Shell Scripting  
 - **HDLs** – Verilog, SystemVerilog  
 - **Tools** – Vivado, Questa Sim, MATLAB, Xilinx SDK, TCL, Linux  
 - **Methodology** – UVM (Universal Verification Methodology)
-<br clear="top"/>
 
 ---
 
