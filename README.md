@@ -14,7 +14,7 @@
 - **HDLs** – Verilog, SystemVerilog  
 - **Tools** – Vivado, Questa Sim, MATLAB, Xilinx SDK, TCL, Linux  
 - **Methodology** – UVM (Universal Verification Methodology)
-<br clear="center"/>
+<br clear="right"/>
 
 ---
 
