@@ -11,7 +11,6 @@
 <div align="right">
   <img src="./ha.png" width="400"/>
   <br/>
-  <sub><i>Digital · RTL · Verification</i></sub>
 </div>
 
 - **Programming Languages** – C, C++, Python, Shell Scripting  
