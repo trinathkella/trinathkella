@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Trinath Kella width=100</h1>
+<h1 align="center">Hi, I'm Trinath Kella width="100"</h1>
 <p align="center">
   Passionate about VLSI Design & Verification
 </p>
