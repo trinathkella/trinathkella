@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Trinath Kella</h1>
-<p align="center">
-  Passionate about VLSI Design & Verification
-</p>
+<h1>Hi, I'm Trinath Kella</h1>
+Passionate about VLSI Design & Verification
 
 
 ### Technical Skills
