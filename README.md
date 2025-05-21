@@ -2,8 +2,6 @@
 <p align="center">
   Passionate about VLSI Design & Verification
 </p>
----
-
 ### Technical Skills
 
 **Programming Languages** – C, C++, Python, Shell Scripting  
