@@ -8,7 +8,7 @@
 
 ### Technical Skills
 
-<img src="./ha.png" align="center" width="400"/>
+<img src="./ha.png" align="right" width="400"/>
 
 - **Programming Languages** – C, C++, Python, Shell Scripting  
 - **HDLs** – Verilog, SystemVerilog  
