@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Trinath Kella</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=calibri&weight=500&size=30&pause=1000&color=F7F7F7&background=3FFF9D00&width=435&lines=Hi%2C+I'm%2C+Trinath+Kella" alt="Typing SVG" /></a>
 
 <p align="center">
   Passionate about VLSI Design & Verification
