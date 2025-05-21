@@ -6,9 +6,16 @@
 
 ---
 
-### Contact Me
-- Email: [kellatrinath@gmail.com](mailto:kellatrinath@gmail.com)
-- LinkedIn: [linkedin.com/in/trinathkella](https://www.linkedin.com/in/trinathkella)
+### Find Me Online
+<p align="left">
+  <a href="mailto:kellatrinath@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/trinathkella" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 
 ---
 
