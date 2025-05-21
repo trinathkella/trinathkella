@@ -20,8 +20,6 @@
 
 ---
 
-<h1 align="center">Hi, I'm Trinath Kella</h1>
-
 ### Connect With Me
 
 <p align="left">
