@@ -9,7 +9,7 @@
 ### Technical Skills
 
 <div align="center">
-  <img src="./ha.png" alt="VLSI RTL Simulation" width="350"/>
+  <img src="./ha.png" alt="VLSI RTL Simulation" width="1000"/>
   <br/>
   <sub><i>Digital · RTL · Verification</i></sub>
 </div>
