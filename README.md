@@ -8,14 +8,16 @@
 
 ### Technical Skills
 
-<img src="./ha.png" alt="VLSI RTL Waveform" align="right" width="250"/>
+<div align="center">
+  <img src="./ha.png" alt="VLSI RTL Simulation" width="350"/>
+  <br/>
+  <sub><i>Digital · RTL · Verification</i></sub>
+</div>
 
 - **Programming Languages** – C, C++, Python, Shell Scripting  
 - **HDLs** – Verilog, SystemVerilog  
 - **Tools** – Vivado, Questa Sim, MATLAB, Xilinx SDK, TCL, Linux  
 - **Methodology** – UVM (Universal Verification Methodology)
-
-<br clear="right"/>
 
 ---
 
