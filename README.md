@@ -1,20 +1,38 @@
 <h1 align="center">Hi, I'm Trinath Kella</h1>
 
-### MAIL: **kellatrinath@gmail.com**
+<p align="center">
+  Passionate about VLSI Design & Verification
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/trinathkella" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Trinath Kella LinkedIn" height="30" width="40" />
-</a>
+---
 
-### Programming Languages
-- C
-- C++
-- Python
-### HDLs
-- Verilog
-- System Verilog
-### Tools
-- Vivado
-- Questa Sim
+### Contact Me
+- Email: [kellatrinath@gmail.com](mailto:kellatrinath@gmail.com)
+- LinkedIn: [linkedin.com/in/trinathkella](https://www.linkedin.com/in/trinathkella)
+
+---
+
+### Technical Skills
+
+**Programming Languages**
+- C, C++, Python, Shell Scripting
+
+**Hardware Description Languages**
+- Verilog, SystemVerilog
+
+**Tools & Technologies**
+- Vivado, Questa Sim, MATLAB, Xilinx SDK, TCL, Linux
+
+**Methodologies**
+- UVM (Universal Verification Methodology)
+
+---
+
+### Projects
+- **Floating Point Unit using IEEE 754 (32-bit)**  
+  Designed and implemented arithmetic operations (add, sub, mul, div) on Zynq-7000 using Vivado and Xilinx SDK.
+
+---
+
+
+<p align="center">Always learning, building, and exploring opportunities in the VLSI world ⚡</p>
