@@ -1,6 +1,9 @@
-<h1 align="center">Hi, I'm </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=calibri&weight=500&size=30&pause=1000&color=F7F7F7&background=3FFF9D00&width=435&lines=Trinath+Kella" alt="Typing SVG" /></a>
-
+<div align="center">
+  <h1 style="display: inline;">Hi, I'm&nbsp;</h1>
+  <a href="https://git.io/typing-svg" style="display: inline;">
+    <img src="https://readme-typing-svg.demolab.com?font=calibri&weight=500&size=30&pause=1000&color=F7F7F7&background=3FFF9D00&width=300&lines=Trinath+Kella" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   Passionate about VLSI Design & Verification
