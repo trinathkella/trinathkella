@@ -1,22 +1,29 @@
-<div align="center">
-  <h1 style="display: inline;">Hi, I'm&nbsp;</h1>
-  <a href="https://git.io/typing-svg" style="display: inline;">
-    <img src="https://readme-typing-svg.demolab.com?font=calibri&weight=500&size=30&pause=1000&color=F7F7F7&background=3FFF9D00&width=300&lines=Trinath+Kella" alt="Typing SVG" />
-  </a>
-</div>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=blimone&weight=500&size=30&pause=5&color=F7F7F7&background=3FFF9D00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm%2C+Trinath+Kella" alt="Typing SVG" /></a>
 <p align="center">
   Passionate about VLSI Design & Verification
 </p>
 
 ---
 
+### Connect With Me
+
+<p align="left">
+  <a href="mailto:kellatrinath@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/trinathkella" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
 ### Technical Skills
 
-- **Programming Languages** – C, C++, Python, Shell Scripting  
-- **HDLs** – Verilog, SystemVerilog  
-- **Tools** – Vivado, Questa Sim, MATLAB, Xilinx SDK, TCL, Linux  
-- **Methodology** – UVM (Universal Verification Methodology)
+**Programming Languages** – C, C++, Python, Shell Scripting  
+**HDLs** – Verilog, SystemVerilog  
+**Tools & Technologies** – Vivado, Questa Sim, MATLAB, Xilinx SDK, TCL, Linux  
+**Methodologies** – UVM (Universal Verification Methodology)
 
 ---
 
@@ -27,15 +34,3 @@
 
 ---
 
-### Find Me Online
-
-<p>
-  <a href="mailto:kellatrinath@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/trinathkella" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
----
