@@ -33,6 +33,3 @@
   Designed and implemented arithmetic operations (add, sub, mul, div) on Zynq-7000 using Vivado and Xilinx SDK.
 
 ---
-
-
-<p align="center">Always learning, building, and exploring opportunities in the VLSI world ⚡</p>
