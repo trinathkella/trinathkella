@@ -1,43 +1,32 @@
-# Project Engineer Portfolio
+<h1>Hi, I'm Trinath Kella</h1>
+Passionate about VLSI Design & Verification
 
-Welcome to my professional portfolio!  
-This repository highlights my skills, training, and interests in the field of digital design and verification.
 
----
+### Technical Skills
 
-## 👨‍💻 About Me
-
-- **Role:** Project Engineer  
-- **Core Skills:**  
-  - Verilog  
-  - System Verilog  
-  - Universal Verification Methodology (UVM)
-
-- **Training:**  
-  - Successfully completed **21Days of RTL by QuickSilicon**
-
-- **Professional Interests:**  
-  - Digital design
-  - RTL development
-  - Functional verification
-
-- **Personal Interests:**  
-  - Listening to music
-  - Photography
+**Programming Languages** – C, C++, Python, Shell Scripting  
+**HDLs** – Verilog, SystemVerilog  
+**Tools & Technologies** – Vivado, Questa Sim, MATLAB, Xilinx SDK, TCL, Linux  
+**Methodologies** – UVM (Universal Verification Methodology)
 
 ---
 
-## 📫 Connect with Me
+### Projects
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile) <!-- Replace with your actual LinkedIn profile link -->
-
----
-
-## 📝 Summary
-
-As a Project Engineer specializing in digital design and verification, I possess hands-on experience with Verilog, System Verilog, and UVM. My completion of the "21Days of RTL" course by QuickSilicon reflects my commitment to continuous learning and technical excellence.  
-I am eager to collaborate with professionals in the semiconductor industry and contribute to innovative projects.
+- **Floating Point Unit using IEEE 754 (32-bit)**  
+  Designed and implemented arithmetic operations (add, sub, mul, div) on Zynq-7000 using Vivado and Xilinx SDK.
 
 ---
 
-Thank you for visiting my portfolio!
+### Connect With Me
+
+<p align="left">
+  <a href="mailto:kellatrinath@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/trinathkella" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
