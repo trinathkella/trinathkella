@@ -4,7 +4,7 @@ Passionate about VLSI Design & Verification
 
 ### Technical Skills
 
-**Languages** – C, C++, Python, Shell Scripting, TCL 
+**Languages** – C, C++, Python, Shell Scripting, TCL  
 **HDLs** – Verilog, SystemVerilog  
 **Tools & Technologies** – Vivado, Questa Sim, MATLAB, Xilinx SDK, Linux  
 **Methodologies** – UVM (Universal Verification Methodology)
