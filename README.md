@@ -13,10 +13,10 @@ Passionate about VLSI Design & Verification
 
 ### Projects
 
-- **Floating Point Unit using IEEE 754 (32-bit)**  
+- **[Floating Point Unit using IEEE 754 (32-bit)](https://github.com/trinathkella/Single_Precision_Floating_Point_Unit)**  
   Designed and implemented arithmetic operations (add, sub, mul, div) on Zynq-7000 using Vivado and Xilinx SDK.
 
-- **PRNG**  
+- **[PRNG](https://github.com/trinathkella/PRNG)**  
   Designed a 32-bit PRNG with different rulesets of 1D Cellular Automata. In addition, integrated the LFSR.
 
 ---
