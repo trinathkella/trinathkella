@@ -6,7 +6,7 @@ Passionate about VLSI Design & Verification
 
 **Languages** – C, C++, Python, Shell Scripting, TCL  
 **HDLs** – Verilog, SystemVerilog  
-**Tools & Technologies** – Vivado, Questa Sim, MATLAB, Xilinx SDK, Linux  
+**Tools & Technologies** – Vivado, Questa Sim, Xilinx SDK, Linux  
 **Methodologies** – UVM (Universal Verification Methodology)
 
 ---
