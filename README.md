@@ -13,7 +13,7 @@ Passionate about VLSI Design & Verification
 
 ### Projects
 
-- **[Floating Point Unit using IEEE 754 (32-bit)][(https://github.com/trinathkella/Single_Precision_Floating_Point_Unit)]**  
+- **[Floating Point Unit using IEEE 754 (32-bit)](https://github.com/trinathkella/Single_Precision_Floating_Point_Unit)**  
   Designed and implemented arithmetic operations (add, sub, mul, div) on Zynq-7000 using Vivado and Xilinx SDK.
 
 - **[PRNG](https://github.com/trinathkella/PRNG)**  
